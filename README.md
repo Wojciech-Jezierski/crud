@@ -15,7 +15,7 @@ I'm continuously learning and exploring new technologies to improve my skills:
 - TypeScript
 - Redux
 
-## 🧰 Toolbox
+## 💻 Technical Skills
 
 - Languages: HTML, CSS, JavaScript, TypeScript
 - Frameworks: React.js
