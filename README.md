@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Wojciech!
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
 
 
 Welcome to my GitHub profile! I'm a passionate [your profession or field] with a love for open-source projects and tech. I enjoy building and contributing to projects that solve real-world problems and help developers and communities grow.
