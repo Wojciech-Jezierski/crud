@@ -15,10 +15,6 @@ I'm continuously learning and exploring new technologies to improve my skills:
 - TypeScript
 - Redux
 
-## 👯 I’m looking to collaborate on
-
-I'm always open to collaborating on exciting projects and contributing to the developer community. If you have an interesting project or need help with something, feel free to reach out to me!
-
 ## 🧰 Toolbox
 
 - Languages: HTML, CSS, JavaScript, TypeScript
@@ -26,13 +22,6 @@ I'm always open to collaborating on exciting projects and contributing to the de
 - Version Control: Git, GitHub, GitLab
 - Tools: VS Code, Postman, Docker
 - Operating System: Windows
-
-
-## 🌐 Find me on the web
-
-- Portfolio: [your-portfolio.com](https://www.your-portfolio.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-
 
 ---
 
