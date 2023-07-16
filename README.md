@@ -20,11 +20,6 @@ I'm continuously learning and exploring new technologies to improve my skills:
 
 I'm always open to collaborating on exciting projects and contributing to the developer community. If you have an interesting project or need help with something, feel free to reach out to me!
 
-## 📫 How to reach me
-
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- Personal Website: [yourwebsite.com](https://www.yourwebsite.com)
 
 ## 💬 Ask me about
 
