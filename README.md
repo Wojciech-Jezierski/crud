@@ -17,7 +17,7 @@ I'm continuously learning and exploring new technologies to improve my skills:
 
 ## 🧰 Technical Skills
 
-- Languages: HTML <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js.svg" height="20" alt="JavaScript Icon">, CSS, JavaScript, TypeScript
+- Languages: HTML, CSS, JavaScript, TypeScript
 - Frameworks: React.js
 - Libraries: Redux, Material UI, Tailwind, Styled Components
 - Version Control: Git, GitHub, GitLab
