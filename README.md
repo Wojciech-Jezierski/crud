@@ -39,9 +39,6 @@ Feel free to ask me about anything related to [your profession or field], open-s
 - Tools: VS Code, Postman, Git Bash
 - Operating System: Windows, Linux
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ## 🌐 Find me on the web
 
