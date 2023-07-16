@@ -25,4 +25,3 @@ I'm continuously learning and exploring new technologies to improve my skills:
 
 ---
 
-_This README template is inspired by the awesome work of many developers on GitHub. Feel free to use and modify it for your own GitHub profile._
