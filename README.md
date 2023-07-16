@@ -47,9 +47,6 @@ Feel free to ask me about anything related to [your profession or field], open-s
 - Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
 
-## 🚀 Favorite Quote
-
-> "Your favorite quote goes here." - [Author]
 
 ---
 
