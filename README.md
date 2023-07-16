@@ -19,6 +19,7 @@ I'm continuously learning and exploring new technologies to improve my skills:
 
 - Languages: HTML, CSS, JavaScript, TypeScript
 - Frameworks: React.js
+- Libraries: Redux, Material UI, Tailwind, Styled Components
 - Version Control: Git, GitHub, GitLab
 - Tools: VS Code, Postman, Docker
 - Operating System: Windows
